@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Yirgalem Zegeye and I'm a  fullstak Developer, from Ethiopia</h2>
+<h2 align="left">Hi 👋! My name is Yirgalem Zegeye and i want to be fullstack developer from Ethiopia</h2>
 
 ###
 
