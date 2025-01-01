@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yirgalem Zegeye</h1>
 <h3 align="center">Aspiring Fullstack Developer from Ethiopia</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yirgazd21&label=Profile%20views&color=0e75b6&style=flat" alt="yirgazd21" />
+<p align="center">
+  <img src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Animated computer with a friendly face" width="300" />
 </p>
 
 🌱 I’m currently learning:
@@ -62,8 +62,8 @@ JavaScript, TypeScript, React, HTML5, CSS3, Python, C#
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yirgazd21&show_icons=true&locale=en&layout=compact&theme=dracula" alt="yirgazd21" />
 </p>
 
-<p>
-  <img align="center" src="https://i.imgflip.com/65efzo.gif" alt="yirgazd21" />
+<p align="center">
+  <img src="https://i.gifer.com/origin/fd/fdb57db49054b7d1d742bed5a1dc3e0b.gif" alt="User working at computer animation" width="300" />
 </p>
 
 <p>
